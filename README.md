@@ -89,3 +89,18 @@ ___
 
 
 # Audit scope
+
+
+[SenecaProtocol @ 3df270c6e441865af19f097a4e63f4d032ad7954](https://github.com/SenecaDefi/SenecaProtocol/tree/3df270c6e441865af19f097a4e63f4d032ad7954)
+- [SenecaProtocol/contracts/BentoBoxFlat.sol](SenecaProtocol/contracts/BentoBoxFlat.sol)
+- [SenecaProtocol/contracts/ChamberFlat.sol](SenecaProtocol/contracts/ChamberFlat.sol)
+- [SenecaProtocol/contracts/libraries/BytesLib.sol](SenecaProtocol/contracts/libraries/BytesLib.sol)
+- [SenecaProtocol/contracts/libraries/ExcessivelySafeCall.sol](SenecaProtocol/contracts/libraries/ExcessivelySafeCall.sol)
+- [SenecaProtocol/contracts/lzApp/LzApp.sol](SenecaProtocol/contracts/lzApp/LzApp.sol)
+- [SenecaProtocol/contracts/lzApp/NonblockingLzApp.sol](SenecaProtocol/contracts/lzApp/NonblockingLzApp.sol)
+- [SenecaProtocol/contracts/senUSD_OFT.sol](SenecaProtocol/contracts/senUSD_OFT.sol)
+- [SenecaProtocol/contracts/token/oft/v2/OFTCoreV2.sol](SenecaProtocol/contracts/token/oft/v2/OFTCoreV2.sol)
+- [SenecaProtocol/contracts/token/oft/v2/fee/BaseOFTWithFee.sol](SenecaProtocol/contracts/token/oft/v2/fee/BaseOFTWithFee.sol)
+- [SenecaProtocol/contracts/token/oft/v2/fee/Fee.sol](SenecaProtocol/contracts/token/oft/v2/fee/Fee.sol)
+- [SenecaProtocol/contracts/token/oft/v2/fee/OFTWithFee.sol](SenecaProtocol/contracts/token/oft/v2/fee/OFTWithFee.sol)
+
