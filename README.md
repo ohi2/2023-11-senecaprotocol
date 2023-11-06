@@ -89,11 +89,3 @@ ___
 
 
 # Audit scope
-
-
-[SenecaProtocol @ 3df270c6e441865af19f097a4e63f4d032ad7954](https://github.com/SenecaDefi/SenecaProtocol/tree/3df270c6e441865af19f097a4e63f4d032ad7954)
-- [SenecaProtocol/contracts/BentoBoxFlat.sol](SenecaProtocol/contracts/BentoBoxFlat.sol)
-- [SenecaProtocol/contracts/ChamberFlat.sol](SenecaProtocol/contracts/ChamberFlat.sol)
-- [SenecaProtocol/contracts/senUSD_OFT.sol](SenecaProtocol/contracts/senUSD_OFT.sol)
-- [SenecaProtocol/contracts/token/oft/v2/fee/OFTWithFee.sol](SenecaProtocol/contracts/token/oft/v2/fee/OFTWithFee.sol)
-
