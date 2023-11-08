@@ -8,7 +8,7 @@
 # Q&A
 
 ### Q: On what chains are the smart contracts going to be deployed?
-Smart contracts will be initially deployed on Arbitrum chain. They will then be deployed on all major EVM chains, starting from Ethereum mainnet. senUSD will specifically be bridgable between chains through the OFT integration.
+Arbitrum, Ethereum, Optimism, Base
 ___
 
 ### Q: Which ERC20 tokens do you expect will interact with the smart contracts? 
